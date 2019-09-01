@@ -15,3 +15,5 @@ This application supports the following algorithms:
 **Breath-first Search** (unweighted): a great algorithm; guarantees the shortest path
 
 **Depth-first Search** (unweighted): a very bad algorithm for pathfinding; does not guarantee the shortest path
+
+<p style="font-size: 10px;"> Credit: This project is inspired and build  off Pathfinding Visualizer from clementmihailescu <p>
